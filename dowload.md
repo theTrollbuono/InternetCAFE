@@ -22,4 +22,6 @@ Aprire la cartella di nome "Debug"
 Scegliere una delle due versioni.
 Avviare "Internet Cafè.exe"
 
-Divertiti!
+Divertiti!.
+
+-Daniele d'Intino.
